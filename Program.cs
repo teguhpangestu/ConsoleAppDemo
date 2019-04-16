@@ -21,6 +21,7 @@ namespace ConsoleAppDemo
             
             //int[] tmp = {21,36, 42};
             //FindGCD(tmp, 2);
+            //
 
         }
 
