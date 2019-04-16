@@ -19,8 +19,10 @@ namespace ConsoleAppDemo
             short[] tmp = {1,1,1,0,1,1,1,1};
             CellComputeHendra(tmp, 2);
             
-            //int[] tmp = {21,36, 42};
-            //FindGCD(tmp, 2);
+            Console.WriteLine(" ");
+
+            int[] tmp3 = {21,36, 42};
+            FindGCD(tmp3, 2);
             //
 
         }
@@ -115,10 +117,10 @@ namespace ConsoleAppDemo
             return result;
         }
 
-        public static int FindGCD(int[] z, int n){
-            int gcd = z[0];
+        public static int FindGCD(int[] arr, int n){
+            int gcd = arr[0];
             for (int i = 1; i < n; i++){
-                gcd = GetGCD(z[i], gcd);
+                gcd = GetGCD(arr[i], gcd);
             }
 
             
