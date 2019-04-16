@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\teguh.pangestu\\Projects\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
+      "projectUniqueName": "C:\\Users\\teguh.pangestu\\Projects\\Demo\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
       "projectName": "ConsoleAppDemo",
-      "projectPath": "C:\\Users\\teguh.pangestu\\Projects\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
+      "projectPath": "C:\\Users\\teguh.pangestu\\Projects\\Demo\\ConsoleAppDemo\\ConsoleAppDemo.csproj",
       "packagesPath": "C:\\Users\\teguh.pangestu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\teguh.pangestu\\Projects\\ConsoleAppDemo\\obj\\",
+      "outputPath": "C:\\Users\\teguh.pangestu\\Projects\\Demo\\ConsoleAppDemo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

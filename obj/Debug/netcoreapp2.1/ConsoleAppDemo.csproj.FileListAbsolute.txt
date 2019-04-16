@@ -9,3 +9,14 @@ c:\Users\teguh.pangestu\Projects\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleA
 c:\Users\teguh.pangestu\Projects\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.AssemblyInfo.cs
 c:\Users\teguh.pangestu\Projects\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.dll
 c:\Users\teguh.pangestu\Projects\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.pdb
+C:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\bin\Debug\netcoreapp2.1\ConsoleAppDemo.deps.json
+C:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\bin\Debug\netcoreapp2.1\ConsoleAppDemo.runtimeconfig.json
+C:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\bin\Debug\netcoreapp2.1\ConsoleAppDemo.runtimeconfig.dev.json
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\bin\Debug\netcoreapp2.1\ConsoleAppDemo.dll
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\bin\Debug\netcoreapp2.1\ConsoleAppDemo.pdb
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.csprojAssemblyReference.cache
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.csproj.CoreCompileInputs.cache
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.AssemblyInfoInputs.cache
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.AssemblyInfo.cs
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.dll
+c:\Users\teguh.pangestu\Projects\Demo\ConsoleAppDemo\obj\Debug\netcoreapp2.1\ConsoleAppDemo.pdb
